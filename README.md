@@ -1,5 +1,11 @@
 
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/780xany/0/1/8/1339018_skysportscricket_810710.jpg" group-title="SkySports", Sky Sports •2
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF: -1 tvg-logo="https://exchange4media.gumlet.io/news-photo/119379-118988-Yupp-Tv-logo1.webp?format=webp&dpr=1.0&q=50&w=360" group-title="Yupp TV IPL",cricket •1
+http://diokz91u21fy1.cloudfront.net/iplch1/2022/master.m3u8
+#EXTINF: -1 tvg-logo="https://thumbs.dreamstime.com/b/vector-set-live-streaming-icon-multimedia-logo-concept-171374151.jpg" group-title="AllLive",°•emergency•°
+//live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐋𝐎𝐂𝐀𝐋 𝐈𝐏𝐓𝐕", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 1
 https://playlist-localiptv.ml/Information_LIVE_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐋𝐎𝐂𝐀𝐋 𝐈𝐏𝐓𝐕", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 2
