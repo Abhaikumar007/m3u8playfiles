@@ -1,7 +1,7 @@
 
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://thumbs.dreamstime.com/b/vector-set-live-streaming-icon-multimedia-logo-concept-171374151.jpg" group-title="AllLive",°•emergency•°
-//live
+http://saqlain-haider.ml/Worldlive_tv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐋𝐎𝐂𝐀𝐋 𝐈𝐏𝐓𝐕", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 1
 https://playlist-localiptv.ml/Information_LIVE_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 𝐋𝐎𝐂𝐀𝐋 𝐈𝐏𝐓𝐕", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 2
